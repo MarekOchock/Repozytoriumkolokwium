@@ -26,3 +26,4 @@ void move(int dx, int dy) {
 }
 
 // Clears screen
+//dodany komentarz
