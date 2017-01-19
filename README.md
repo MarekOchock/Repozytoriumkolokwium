@@ -1,0 +1,2 @@
+# Repozytoriumkolokwium
+Repozytorium do kolokwium
