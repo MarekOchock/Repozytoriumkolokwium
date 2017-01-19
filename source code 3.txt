@@ -27,3 +27,6 @@ void move(int dx, int dy) {
 
 // Clears screen
 //dodany komentarz
+
+// dodany komentarz w branchu "nowy"
+// dodany komentarz
