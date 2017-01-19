@@ -34,3 +34,5 @@ bool running;
 
 int main()
 {
+
+return 0; }
