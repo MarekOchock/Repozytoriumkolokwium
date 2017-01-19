@@ -34,3 +34,4 @@ void run()
 
     // Stop console from closing instantly
     std::cin.ignore();
+}
